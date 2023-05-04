@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="s" fetch="https://github.com/Samsung-Galaxy-Core-II" />
+	<project path="device/samsung/kanas" name="device_samsung_kanas" remote="s" revision="lineage-15.1" clone-depth="1" />
+	<project path="kernel/samsung/kanas" name="kernel_samsung_kanas" remote="s" revision="lineage-15.1" clone-depth="1" />
+	<project path="vendor/samsung/kanas" name="vendor_samsung_kanas" remote="s" revision="lineage-15.1" clone-depth="1" />
+	<project path="hardware/sprd" name="android_hardware_sprd" remote="s" revision="lineage-15.1" clone-depth="1" />
+	<project path="device/samsung/sprd-common" name="android_device_samsung_sprd-common" remote="s" revision="lineage-15.1" clone-depth="1" />
+	<project path="device/samsung/scx35-common" name="android_device_samsung_scx35-common" remote="s" revision="lineage-15.1" clone-depth="1" />
+</manifest>
