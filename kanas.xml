@@ -4,6 +4,7 @@
     <remote name="s" fetch="https://github.com/Samsung-Galaxy-Core-II" />
     <remote name="e" fetch="https://github.com/enriquezmark36" />
 
+	<project path="device/samsung/kanas" name="device_samsung_kanas" remote="s" revision="lineage-15.1" clone-depth="1" />
 	<project path="kernel/samsung/kanas" name="kernel_samsung_kanas" remote="s" revision="lineage-15.1" clone-depth="1" />
 	<project path="vendor/samsung/kanas" name="android_vendor_samsung_kanas" remote="e" revision="lineage-15.1" clone-depth="1" />
 	<project path="hardware/sprd" name="android_hardware_sprd" remote="s" revision="lineage-15.1" clone-depth="1" />
